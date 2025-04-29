@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Software-Testing-and-Quality-Assurance.iml" filepath="$PROJECT_DIR$/.idea/Software-Testing-and-Quality-Assurance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unittesting/seip2020_practical_assignments.iml" filepath="$PROJECT_DIR$/unittesting/seip2020_practical_assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unittestingg/unittesting/seip2020_practical_assignments (1).iml" filepath="$PROJECT_DIR$/Unittestingg/unittesting/seip2020_practical_assignments (1).iml" />
+    </modules>
+  </component>
+</project>
